@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AliveCor</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_dob">DOB</string>
+    <string name="btn_nxt">Next</string>
+    <string name="fields_mandatory">All fields are mandatory</string>
+</resources>
